@@ -17,8 +17,6 @@
   </a>
 </div>
 
-## I'm a passionate full stack web developer.
-
 ### About Me
 
 - 💻 I'm currently working as frontend team lead at <b><a href="https://bransys.com/" target="_blank">Bransys</a></b>
