@@ -19,7 +19,7 @@
 
 ### About Me
 
-- 💻 I'm currently working as frontend team lead at <b><a href="https://bransys.com/" target="_blank">Bransys</a></b>
+- 💻 I'm currently working as javascript developer at <b><a href="https://www.linkedin.com/company/adept-code" target="_blank">AdeptCode</a></b>
 - ⚡ I'm looking to collaborate on OpenSource Projects. All my projects are available in my <b><a href="https://stefansimonovski.github.io/" target="_blank">portfolio</a></b>.
 - 🌍  I'm based in Skopje, Macedonia
 - ⭐ Fun fact <b>I love to code</b>.
