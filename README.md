@@ -1,63 +1,92 @@
 <h1 align="center">
-  <img src="./logo.gif" alt="Stefan Simonovski" />
+  Hi 👋, I'm Stefan Simonovski
 </h1>
 
+<h3 align="center">
+  Full-Stack Developer | IoT & Backend Engineer | Building TailingHub
+</h3>
+
 <div align="center">
-	<a href="https://www.linkedin.com/in/s-simonovski">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-	</a>
-  <a href="mailto:s.simonovski@hotmail.com">
-		<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook" alt="Microsoft Outlook Badge"/>
-	</a>
-  <a href="https://www.upwork.com/freelancers/~014fbecd12ae0c875d">
-		<img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork" alt="Upwork Badge"/>
-	</a>
-  <a>
-	<img src="https://komarev.com/ghpvc/?username=stefansimonovski&style=for-the-badge" alt="profile views"/>
+  <a href="https://www.linkedin.com/in/s-simonovski">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
+
+  <a href="mailto:s.simonovski@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook" />
+  </a>
+
+  <a href="https://stefansimonovski.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=stefansimonovski&style=for-the-badge" />
 </div>
 
-### About Me
 
-- 💻 I'm currently working as javascript developer at <b><a href="https://www.linkedin.com/company/adept-code" target="_blank">AdeptCode</a></b>
-- ⚡ I'm looking to collaborate on OpenSource Projects. All my projects are available in my <b><a href="https://stefansimonovski.github.io/" target="_blank">portfolio</a></b>.
-- 🌍  I'm based in Skopje, Macedonia
-- ⭐ Fun fact <b>I love to code</b>.
+## About Me
 
-### Languages and Tools:
+- 💻 Full-stack developer focused on building scalable web applications and IoT solutions.
+- 🚚 Building **TailingHub**, an end-to-end IoT fleet tracking and management platform.
+- 📡 Working with GPS tracking devices, MQTT, ESP32, LTE modules, and cloud infrastructure.
+- 🛠️ Experienced with React, Node.js, TypeScript, PostgreSQL, Redis, Docker.
+- ☁️ Experienced with Linux servers, VPS deployments, MQTT brokers, and production infrastructure.
+- 🌍 Based in North Macedonia.
+- ⚡ I enjoy building complete products from hardware to software.
+
+## Currently Looking For
+
+- Full-stack engineering roles
+- Backend Node.js / TypeScript positions
+- IoT and embedded software opportunities
+- Projects involving real-time systems and connected devices
+
+## Featured Project
+
+### 🚚 TailingHub
+
+An end-to-end fleet tracking platform:
+
+- Real-time GPS tracking
+- Multi-tenant fleet management
+- MQTT communication
+- Device management
+- Geofencing
+- Notifications
+- OTA firmware updates
+- TimescaleDB telemetry storage
+- Cloud deployment
+- More information:
+🌐 https://tailinghub.com
+
+Tech stack:
+
+`TypeScript` `Node.js` `Fastify` `React` `PostgreSQL` `TimescaleDB` `Redis` `MQTT` `ESP32` `Docker` `Linux`
+
+
+## Languages and Tools
 
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" alt="eslint" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original.svg" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg" width="40"/>
 
 </p>
 
-### My GitHub Stats
+## Embedded & IoT
 
-<details>
-  <summary>⚡ Github Stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=stefansimonovski&show_icons=true" alt="Stefan Simonovski Github Stats" />
-</details>
-
-<details>
-  <summary>🌐 Most used languages</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefansimonovski" alt="Oops, something went wrong with most used languages graph. Sorry!" />
-  </br>
-  <b>Note</b> Top languages is only a metric of the languages my public code consist of and does not reflect experience or skill level.
-</details>
+- ESP32 firmware development using **ESP-IDF**
+- FreeRTOS
+- MQTT communication
+- GPS/GNSS modules
+- LTE/4G modules (SIM A76xx series)
+- OTA firmware updates
+- Hardware prototyping
