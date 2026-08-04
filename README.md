@@ -90,3 +90,10 @@ Tech stack:
 - LTE/4G modules (SIM A76xx series)
 - OTA firmware updates
 - Hardware prototyping
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="59%" src="./profile/stats.svg" />
+  <img width="39%" src="./profile/top-langs.svg" />
+</div>
