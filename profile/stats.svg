@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Stefan Simonovski&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  : 116, Total PRs: 42, Total Issues: 11, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  : 116, Total PRs: 46, Total Issues: 11, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 202.73993674460158;
+        stroke-dashoffset: 200.84652720481617;
       }
     }
   
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >42</text>
+      >46</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
